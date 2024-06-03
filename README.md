@@ -1,6 +1,5 @@
 # Lights Out
----
-A JavaFX version of the *Lights Out* puzzle game, submitted as a final project for my Computer Programming and Problem Solving course, fall 2019.
+A JavaFX version of the *Lights Out* puzzle game, submitted as a final project for my Computer Programming & Problem Solving course, fall 2019.
 
 Note: This app can be run from the command line without using build tools like Maven or Gradle.
 
